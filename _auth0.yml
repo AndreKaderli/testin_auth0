@@ -1,0 +1,7 @@
+name: myApp
+remote_url: 'https://testenvnovalytica.shinyapps.io/test_app_swissrdl/'
+auth0_config:
+  api_url: 'dev-po03jjicmiyaqoyi.us.auth0.com'
+  credentials:
+    key: 'QRxM8pTtvOClbHEEOnCdQVJnzvNdIBA3'
+    secret: 'KTIy-LPKHM4FXf1Fizh7bZlz8U9dzdKm4xrOtjMGNaD7ba0bd_Oe-3SFIHQOXTmn'
