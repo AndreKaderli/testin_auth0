@@ -1,5 +1,5 @@
 name: myApp
-remote_url: 'https://testenvnovalytica.shinyapps.io/test_app_swissrdl/'
+remote_url: 'http://20.203.240.97:3838/testin_auth0/'
 auth0_config:
   api_url: 'dev-po03jjicmiyaqoyi.us.auth0.com'
   credentials:
